@@ -34,8 +34,8 @@ Usage Notes or examples
 * `npm start`
 *You will also need the three other files
 [server](https://github.com/EdDearment-401-advanced-javascript/lab19Server)
-[API](https://github.com/EdDearment-401-advanced-javascript/lab19file)
-[File](https://github.com/EdDearment-401-advanced-javascript/lab19API)
+[File](https://github.com/EdDearment-401-advanced-javascript/lab19file)
+[API](https://github.com/EdDearment-401-advanced-javascript/lab19API)
 * Endpoint: `/foo/bar/`
   * Returns a JSON object with abc in it.
 * Endpoint: `/bing/zing/`
