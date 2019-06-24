@@ -1,0 +1,31 @@
+{
+  "name": "lab19logger",
+  "version": "1.0.0",
+  "description": "Logger for lab 19",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint **/*.js",
+    "start": "node logger.js",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdDearment-401-advanced-javascript/lab19Logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdDearment-401-advanced-javascript/lab19Logger/issues"
+  },
+  "homepage": "https://github.com/EdDearment-401-advanced-javascript/lab19Logger#readme",
+  "dependencies": {
+    "@nmq/q": "^1.0.3",
+    "dotenv": "^8.0.0",
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0",
+    "jsdoc": "^3.6.2",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
